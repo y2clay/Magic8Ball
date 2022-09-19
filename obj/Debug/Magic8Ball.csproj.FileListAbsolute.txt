@@ -1,0 +1,8 @@
+C:\Users\Clay\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\Clay\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\Clay\Projects\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\Clay\Projects\Magic8Ball\obj\Debug\Magic8Ball.csproj.AssemblyReference.cache
+C:\Users\Clay\Projects\Magic8Ball\obj\Debug\Magic8Ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clay\Projects\Magic8Ball\obj\Debug\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\Clay\Projects\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\Clay\Projects\Magic8Ball\obj\Debug\Magic8Ball.pdb
